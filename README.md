@@ -1,1 +1,1 @@
-# cakephp5-users-management-plugin
+# cakephp-users-management-plugin
